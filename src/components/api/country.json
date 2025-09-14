@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "country": "Pakistan",
+    "capital": "Islamabad",
+    "region": "Asia",
+    "big_city": "Karachi",
+    "population": 240000000,
+    "native_languages": ["Urdu", "Punjabi", "Sindhi", "Pashto", "Balochi"]
+  },
+  {
+    "id": 2,
+    "country": "India",
+    "capital": "New Delhi",
+    "region": "Asia",
+    "big_city": "Mumbai",
+    "population": 1428000000,
+    "native_languages": ["Hindi", "Bengali", "Tamil", "Telugu", "Marathi"]
+  },
+  {
+    "id": 3,
+    "country": "China",
+    "capital": "Beijing",
+    "region": "Asia",
+    "big_city": "Shanghai",
+    "population": 1412000000,
+    "native_languages": ["Mandarin", "Cantonese"]
+  },
+  {
+    "id": 4,
+    "country": "United States",
+    "capital": "Washington, D.C.",
+    "region": "North America",
+    "big_city": "New York City",
+    "population": 333000000,
+    "native_languages": ["English", "Spanish"]
+  },
+  {
+    "id": 5,
+    "country": "Brazil",
+    "capital": "Brasília",
+    "region": "South America",
+    "big_city": "São Paulo",
+    "population": 214000000,
+    "native_languages": ["Portuguese"]
+  },
+  {
+    "id": 6,
+    "country": "Japan",
+    "capital": "Tokyo",
+    "region": "Asia",
+    "big_city": "Osaka",
+    "population": 125000000,
+    "native_languages": ["Japanese"]
+  },
+  {
+    "id": 7,
+    "country": "Germany",
+    "capital": "Berlin",
+    "region": "Europe",
+    "big_city": "Hamburg",
+    "population": 84000000,
+    "native_languages": ["German"]
+  },
+  {
+    "id": 8,
+    "country": "France",
+    "capital": "Paris",
+    "region": "Europe",
+    "big_city": "Marseille",
+    "population": 67000000,
+    "native_languages": ["French"]
+  },
+  {
+    "id": 9,
+    "country": "United Kingdom",
+    "capital": "London",
+    "region": "Europe",
+    "big_city": "Birmingham",
+    "population": 68000000,
+    "native_languages": ["English", "Welsh", "Scottish Gaelic"]
+  },
+  {
+    "id": 10,
+    "country": "Canada",
+    "capital": "Ottawa",
+    "region": "North America",
+    "big_city": "Toronto",
+    "population": 39000000,
+    "native_languages": ["English", "French"]
+  },
+  {
+    "id": 11,
+    "country": "Australia",
+    "capital": "Canberra",
+    "region": "Oceania",
+    "big_city": "Sydney",
+    "population": 26000000,
+    "native_languages": ["English"]
+  },
+  {
+    "id": 12,
+    "country": "Russia",
+    "capital": "Moscow",
+    "region": "Europe/Asia",
+    "big_city": "Saint Petersburg",
+    "population": 145000000,
+    "native_languages": ["Russian", "Tatar"]
+  },
+  {
+    "id": 13,
+    "country": "South Africa",
+    "capital": "Pretoria (administrative)",
+    "region": "Africa",
+    "big_city": "Johannesburg",
+    "population": 60000000,
+    "native_languages": ["Zulu", "Xhosa", "Afrikaans", "English"]
+  },
+  {
+    "id": 14,
+    "country": "Saudi Arabia",
+    "capital": "Riyadh",
+    "region": "Asia",
+    "big_city": "Jeddah",
+    "population": 36000000,
+    "native_languages": ["Arabic"]
+  },
+  {
+    "id": 15,
+    "country": "Egypt",
+    "capital": "Cairo",
+    "region": "Africa",
+    "big_city": "Alexandria",
+    "population": 110000000,
+    "native_languages": ["Arabic"]
+  }
+]
