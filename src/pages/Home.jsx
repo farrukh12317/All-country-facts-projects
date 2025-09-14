@@ -1,6 +1,6 @@
 import React from "react";
 
-import 'C:/Users/Thinkpad L480/Desktop/wolrd exploer project react/src/Hero.css'
+import './Hero.css'
 const Home =()=> {
 
      const data = [
