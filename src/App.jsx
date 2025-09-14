@@ -9,7 +9,7 @@ import { Country } from "./pages/Country";
 import AppLayout from './components/Layout/AppLayout'
 import ErrorPage from './components/ui/ErrorPage'
 // import "./App.css";
-import '../Apptest.css'
+import './Apptest.css'
 
 let router = createBrowserRouter([
   {
