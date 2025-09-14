@@ -1,12 +1,45 @@
-# React + Vite
+# 🌍 World Countries Explorer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based web application that displays information about countries using the [REST Countries API](https://restcountries.com/).  
+Users can search for countries and filter them by continent.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
+- 🌐 View details of all countries (name, population, capital, region, languages, and flag).
+- 🔎 **Search functionality** to quickly find a country by name.
+- 🌍 **Filter by continent** (Africa, Asia, Europe, etc.).
+- 📱 Responsive design with a clean and modern UI.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🌐 Live Demo
+
+👉 [View Project on Vercel](https://your-vercel-link.vercel.app)  
+
+
+## 🛠️ Tech Stack
+- **Frontend:** React, React Router
+- **Styling:** CSS (custom theme)
+- **Data Source:** [REST Countries API](https://restcountries.com/)
+
+---
+
+## 📸 Screenshots
+_Add some screenshots or a GIF demo of your app here._
+
+---
+
+## ⚡ Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+src/
+ ├── components/     # Reusable UI components (Search, Header, Footer, etc.)
+ ├── pages/          # Page components (Home, Country, Detail, About, Contact)
+ ├── api/            # API calls (REST Countries API)
+ ├── index.css       # Global styles
+ └── main.jsx        # React entry point
+
