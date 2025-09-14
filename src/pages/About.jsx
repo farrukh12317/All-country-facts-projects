@@ -1,5 +1,5 @@
 import React from "react";
-import "../Hero.css";
+import "./Hero.css";
 import { useState } from "react";
 import countrydata from "../components/api/country.json";
 
