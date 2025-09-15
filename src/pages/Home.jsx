@@ -1,6 +1,6 @@
 import React from "react";
 
-import './Hero.css'
+import 'src/pages/Hero.css'
 const Home =()=> {
 
      const data = [
